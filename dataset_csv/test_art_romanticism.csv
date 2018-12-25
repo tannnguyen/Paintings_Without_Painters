@@ -1,0 +1,51 @@
+,artist,date,genre,pixelsx,pixelsy,size_bytes,source,style,title,artist_group,in_train,filename
+9,Franz Richard Unterberger,,cityscape,6238.0,7352.0,7896792.0,wikiart,Romanticism,Procession in Naples ,train_and_test,False,84512.jpg
+25,Jan Matejko,1891.0,history painting,7459.0,4135.0,7284812.0,wikipedia,Romanticism,The Constitution of the 3rd May 1791,train_and_test,False,75956.jpg
+34,Gustave Dore,,illustration,5878.0,4678.0,24158097.0,wikiart,Romanticism,The hoarders and wasters,train_and_test,False,31977.jpg
+318,Rudolf von Alt,1874,cityscape,4248.0,3438.0,9717534.0,wikiart,Romanticism,View of the Ducal Palace in Venice,train_and_test,False,49235.jpg
+377,Orest Kiprensky,1827,portrait,3455.0,4000.0,10862180.0,wikiart,Romanticism,Portrait of Alexander Pushkin ,train_and_test,False,19040.jpg
+439,Dante Gabriel Rossetti,1880,literary painting,3882.0,3426.0,8741918.0,wikiart,Romanticism,The Pia of Tolomei,train_and_test,False,16339.jpg
+462,Sir Lawrence Alma-Tadema,1885,portrait,3383.0,3884.0,2562976.0,wikiart,Romanticism,"Dr. Washington Epps, My Doctor",train_and_test,False,88229.jpg
+510,Karl Bodmer,1843,genre painting,4064.0,3156.0,2587021.0,wikiart,Romanticism,Scalp dance of the Minatarres,train_and_test,False,55370.jpg
+524,Rudolf von Alt,1839,landscape,4236.0,3006.0,8705058.0,wikiart,Romanticism,Storm on Lake Garda,train_and_test,False,73658.jpg
+535,Rudolf von Alt,1839,landscape,4236.0,2988.0,7696428.0,wikiart,Romanticism,Altausseersee with Trisselwand,train_and_test,False,17940.jpg
+559,Rudolf von Alt,1845,landscape,4098.0,3018.0,7518081.0,wikiart,Romanticism,Hallstatt,train_and_test,False,73615.jpg
+636,Ford Madox Brown,,genre painting,2492.0,4684.0,4699430.0,wikiart,Romanticism,"Take your Son, Sir",test_only,False,75073.jpg
+648,Ford Madox Brown,1847,religious painting,3888.0,2988.0,7241784.0,wikiart,Romanticism,John Wycliffe reading his translation of the Bible to John of Gaunt,test_only,False,57699.jpg
+677,Francisco Goya,1800,nude painting (nu),4724.0,2396.0,2516275.0,wikiart,Romanticism,Nude Maja,train_and_test,False,56135.jpg
+678,Rudolf von Alt,1831,cityscape,3750.0,3018.0,6016171.0,wikiart,Romanticism,View of Salzburg,train_and_test,False,44287.jpg
+694,Karl Bodmer,1843,portrait,2960.0,3794.0,2678726.0,wikiart,Romanticism,"Mándeh Páhchu, a Young Mandan Indian, plate 24 from Volume 1 of 'Travels in the Interior of North America'",train_and_test,False,5438.jpg
+695,Francisco Goya,1800,portrait,4724.0,2375.0,2369286.0,wikiart,Romanticism,The Clothed Maja,train_and_test,False,71143.jpg
+799,Rudolf von Alt,1897,cityscape,4230.0,2478.0,7131423.0,wikiart,Romanticism,View of Salzburg,train_and_test,False,25815.jpg
+801,Dante Gabriel Rossetti,1849,genre painting,3599.0,2909.0,2197680.0,wikiart,Romanticism,The Laboratory,train_and_test,False,100555.jpg
+832,Luc-Olivier Merson,1885.0,design,2619.0,3928.0,5274547.0,wikiart,Romanticism,Danse de fiançailles detail,train_and_test,False,2898.jpg
+919,Dante Gabriel Rossetti,1861,portrait,2832.0,3508.0,3254465.0,wikiart,Romanticism,Fair Rosamund,train_and_test,False,99218.jpg
+1038,Karl Bodmer,1843,portrait,2608.0,3554.0,1224603.0,wikiart,Romanticism,"Mahsette-Kuiuab, Chief of the Cree Indians, plate 22 from volume 1 of `Travels in the Interior of North America'",train_and_test,False,28555.jpg
+1123,Rudolf von Alt,1842,interior,3500.0,2559.0,6963983.0,wikiart,Romanticism,Interior view of the Palm House of Lednice Castle,train_and_test,False,49287.jpg
+1223,Theodor Severin Kittelsen,,genre painting,3950.0,2193.0,2065867.0,wikiart,Neo-Romanticism,Brudeferden I Hardanger,train_and_test,False,47609.jpg
+1233,Henry Raeburn,,portrait,2686.0,3216.0,5754242.0,wikipedia,Romanticism,Lieutenant-General William Stuart,train_and_test,False,95275.jpg
+1373,Dante Gabriel Rossetti,,portrait,2490.0,3326.0,1587096.0,wikipedia,Romanticism,Hunt,train_and_test,False,80605.jpg
+1444,Sir Lawrence Alma-Tadema,1909,genre painting,2360.0,3466.0,3748883.0,wikiart,Romanticism,A Favourite Custom,train_and_test,False,74505.jpg
+1571,Paul Cezanne,1865,still life,3176.0,2497.0,582879.0,wikiart,Romanticism,Still Life with Bread and Eggs,train_and_test,False,71756.jpg
+1693,Paul Cezanne,c.1866,portrait,2536.0,3061.0,856153.0,wikiart,Romanticism,Portrait of Uncle Dominique as a Monk,train_and_test,False,64759.jpg
+1734,Franz Richard Unterberger,,cityscape,2559.0,3000.0,2257826.0,wikiart,Romanticism,"Rio Santa Barnaba, Venice",train_and_test,False,25992.jpg
+1782,Franz Richard Unterberger,,cityscape,2525.0,3000.0,1506750.0,wikiart,Romanticism,"Amalfi, The Gulf Of Salerno",train_and_test,False,89072.jpg
+1854,Ford Madox Brown,1872,portrait,2400.0,3105.0,1308709.0,wikiart,Romanticism,Henry Fawcett; Dame Millicent Garrett Fawcett,test_only,False,49008.jpg
+1873,William Turner,1829,landscape,3176.0,2337.0,415074.0,wikiart,Romanticism,View of Orvieto,train_and_test,False,79439.jpg
+2128,David Wilkie,,portrait,2400.0,2943.0,1504195.0,wikiart,Romanticism,Abraham Raimbach,train_and_test,False,20603.jpg
+2158,Caspar David Friedrich,1818,allegorical painting,2343.0,3000.0,1770521.0,wikiart,Romanticism,The wanderer above the sea of fog,train_and_test,False,86372.jpg
+2216,George Frederick Watts,,portrait,2400.0,2901.0,1341973.0,wikiart,Romanticism,"Alfred Tennyson, 1st Baron Tennyson",train_and_test,False,7085.jpg
+2228,George Frederick Watts,,portrait,2400.0,2897.0,1990602.0,wikiart,Romanticism,Charles Booth,train_and_test,False,86527.jpg
+2246,Konstantin Makovsky,,portrait,2167.0,3200.0,2566876.0,wikiart,Romanticism,Russian Beauty,train_and_test,False,45375.jpg
+2278,Caspar David Friedrich,,genre painting,3021.0,2280.0,3382134.0,wikiart,Romanticism,Two Men by the Sea,train_and_test,False,94271.jpg
+2282,Dante Gabriel Rossetti,1875,genre painting,2286.0,3012.0,3864568.0,wikiart,Romanticism,The beautiful Hand,train_and_test,False,87577.jpg
+2307,Caspar David Friedrich,,landscape,3280.0,2089.0,982622.0,wikiart,Romanticism,Megalithic grave,train_and_test,False,46018.jpg
+2311,Ford Madox Brown,1851,history painting,2319.0,2952.0,3276247.0,wikiart,Romanticism,Chaucer at the Court of Edward III,test_only,False,14732.jpg
+2358,Caspar David Friedrich,,genre painting,3000.0,2259.0,3455388.0,wikiart,Romanticism,Man and Woman,train_and_test,False,10012.jpg
+2590,Dante Gabriel Rossetti,1881,mythological painting,1860.0,3487.0,5302683.0,wikiart,Romanticism,Mnemosyne,train_and_test,False,66129.jpg
+2692,Rudolf von Alt,c.1840,cityscape,2952.0,2160.0,3823917.0,wikiart,Romanticism,The Esplanade in Ischl,train_and_test,False,87592.jpg
+2694,Ferdinand Georg Waldmüller,1844,landscape,3200.0,1990.0,4362943.0,wikipedia,Romanticism,"The ruin of the Greek theater in Taormina, Sicily",train_and_test,False,67285.jpg
+2851,Eugene Delacroix,1826,history painting,2024.0,3047.0,712124.0,wikiart,Romanticism,Greece expiring on the Ruins of Missolonghi,train_and_test,False,25753.jpg
+3033,Edward Burne-Jones,,mythological painting,2202.0,2713.0,2307420.0,wikiart,Romanticism,The Heart Desires,train_and_test,False,95295.jpg
+3099,Francisco Goya,1777,genre painting,2537.0,2339.0,1157519.0,wikiart,Romanticism,Dance of the Majos at the Banks of Manzanares,train_and_test,False,83917.jpg
+3206,Sir Lawrence Alma-Tadema,1885,genre painting,2073.0,2817.0,3056224.0,wikiart,Romanticism,A Foregone Conclusion,train_and_test,False,48776.jpg

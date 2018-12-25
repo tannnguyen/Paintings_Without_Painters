@@ -1,0 +1,51 @@
+,artist,date,genre,pixelsx,pixelsy,size_bytes,source,style,title,artist_group,in_train,filename
+88,Carlos Saenz de Tejada,,history painting,5322.0,4052.0,2933296.0,wikiart,Art Nouveau (Modern),The Life of St. Ignatius Loyola. Plate 3. The vision at the River Cardoner (Manresa).,train_and_test,False,54395.jpg
+92,Carlos Saenz de Tejada,,history painting,5305.0,4043.0,3040310.0,wikiart,Art Nouveau (Modern),"The Life of St. Ignatius Loyola. Plate 4. Ignatius and his friend, Francis Xavier, at the university of Paris. What does it profit a man if he gains the whole world but suffers the loss of his soul.",train_and_test,False,24597.jpg
+94,Carlos Saenz de Tejada,,history painting,5305.0,3995.0,2460019.0,wikiart,Art Nouveau (Modern),The Life of St. Ignatius Loyola. Plate 5. Ignatius and the first companions take vows at Montmatre 15th August 1534.,train_and_test,False,45778.jpg
+107,Koloman Moser,c.1910,self-portrait,4410.0,4632.0,11667576.0,wikiart,Art Nouveau (Modern),Self-portrait,train_and_test,False,13595.jpg
+180,Ferdinand Hodler,1910,landscape,4812.0,3570.0,10304087.0,wikipedia,Art Nouveau (Modern),"Thun, Stockhornkette",train_and_test,False,13495.jpg
+183,Ferdinand Hodler,1914,self-portrait,3930.0,4350.0,9804234.0,wikiart,Art Nouveau (Modern),Self-portrait with roses,train_and_test,False,63849.jpg
+189,Ferdinand Hodler,c.1912,portrait,3738.0,4542.0,11244336.0,wikiart,Art Nouveau (Modern),Portrait of Gertrud Mueller,train_and_test,False,13674.jpg
+191,Koloman Moser,c.1910,design,4716.0,3594.0,11177606.0,wikiart,Art Nouveau (Modern),Stage design for 'The lake' of Julius Bittner,train_and_test,False,88764.jpg
+253,Koloman Moser,1905,design,4740.0,3342.0,9653861.0,wikiart,Art Nouveau (Modern),"Am Steinhof Church, mosaic design for the main altar",train_and_test,False,23476.jpg
+259,Ferdinand Hodler,1898,portrait,3462.0,4548.0,10438090.0,wikiart,Art Nouveau (Modern),Portrait of Madame de R.,train_and_test,False,61194.jpg
+266,Ferdinand Hodler,1908,landscape,4680.0,3318.0,10997869.0,wikiart,Art Nouveau (Modern),Rhythmic landscape on Lake Geneva,train_and_test,False,6586.jpg
+286,Koloman Moser,c.1914,nude painting (nu),4752.0,3162.0,9420899.0,wikiart,Art Nouveau (Modern),Three women squatting,train_and_test,False,19019.jpg
+378,Koloman Moser,c.1901,design,4734.0,2916.0,8894389.0,wikiart,Art Nouveau (Modern),Design for a Stage Decoration,train_and_test,False,71631.jpg
+387,Ferdinand Hodler,1893,symbolic painting,2598.0,5280.0,8647941.0,wikiart,Art Nouveau (Modern),What are flowers saing,train_and_test,False,77675.jpg
+395,Ferdinand Hodler,1915,landscape,4104.0,3324.0,8128045.0,wikiart,Art Nouveau (Modern),Weisshorn of Montana,train_and_test,False,3022.jpg
+397,Koloman Moser,1897,design,2940.0,4638.0,8651826.0,wikiart,Art Nouveau (Modern),"Postcard to Carl Moll, Ver Sacrum",train_and_test,False,62684.jpg
+429,Ivan Bilibin,1909.0,design,4685.0,2856.0,29501749.0,wikiart,Art Nouveau (Modern),"Sketch for the opera, 'The Golden Cockerel', by Nikolai Rimsky-Korsakov ",train_and_test,False,87043.jpg
+434,Ivan Bilibin,1909.0,design,4626.0,2881.0,29624294.0,wikiart,Art Nouveau (Modern),"Sketch for the Opera, The Golden Cockerel, by Nikolai Rimsky-Korsakov ",train_and_test,False,97297.jpg
+500,Koloman Moser,1907,flower painting,3576.0,3606.0,8090568.0,wikiart,Art Nouveau (Modern),Cyclamen,train_and_test,False,90339.jpg
+518,Ivan Bilibin,1914.0,design,4422.0,2886.0,29727744.0,wikiart,Art Nouveau (Modern),Sketches of scenery for Sadko by Nikolai Rimsky-Korsakov,train_and_test,False,73334.jpg
+646,Koloman Moser,1897,illustration,2808.0,4140.0,8084016.0,wikiart,Art Nouveau (Modern),Matter of conscience. Humorous Illustration for Meggendorfers leaves.,train_and_test,False,26882.jpg
+703,Koloman Moser,1913,landscape,4746.0,2358.0,7664020.0,wikiart,Art Nouveau (Modern),The Abersee,train_and_test,False,2039.jpg
+776,Carl Larsson,1897,genre painting,4000.0,2654.0,4086664.0,wikiart,Art Nouveau (Modern),Mammas and the small girls,train_and_test,False,4268.jpg
+777,Carl Larsson,1906,genre painting,4000.0,2654.0,4348362.0,wikiart,Art Nouveau (Modern),Model Writing Postcards,train_and_test,False,23250.jpg
+789,Koloman Moser,1896,design,2298.0,4590.0,7845549.0,wikiart,Art Nouveau (Modern),Waidmannsheil,train_and_test,False,83298.jpg
+802,Carl Larsson,c.1895,genre painting,4000.0,2615.0,4509249.0,wikiart,Art Nouveau (Modern),Breakfast under the Big Birch,train_and_test,False,35709.jpg
+925,Theophile Steinlen,1916.0,landscape,3485.0,2835.0,385401.0,wikiart,Art Nouveau (Modern),"Landscape of Belmont, near Lausanne",train_and_test,False,52003.jpg
+965,Ivan Bilibin,,illustration,2717.0,3509.0,2907217.0,wikiart,Art Nouveau (Modern),"Illustration for the Russian Fairy Story ""Feather Of Finist Falcon""",train_and_test,False,54850.jpg
+967,Ivan Bilibin,,illustration,2717.0,3509.0,1963944.0,wikiart,Art Nouveau (Modern),"Illustration for the Russian Fairy Story ""Feather Of Finist Falcon""",train_and_test,False,77603.jpg
+976,Ivan Bilibin,1900.0,illustration,2717.0,3509.0,2338767.0,wikiart,Art Nouveau (Modern),"Illustration for the Russian Fairy Story ""Maria Morevna""",train_and_test,False,26665.jpg
+981,Ivan Bilibin,1900.0,illustration,2717.0,3509.0,2276532.0,wikiart,Art Nouveau (Modern),"Illustration for the fairy tale ""Vasilisa the Beautiful""",train_and_test,False,19081.jpg
+984,Ivan Bilibin,1899.0,illustration,2717.0,3509.0,2379120.0,wikiart,Art Nouveau (Modern),"Illustration for the Tale of Prince Ivan, The Firebird and the Grey Wolf",train_and_test,False,84564.jpg
+986,Ivan Bilibin,1899.0,illustration,2717.0,3509.0,2684833.0,wikiart,Art Nouveau (Modern),"Illustration for the Tale of Prince Ivan, The Firebird and the Grey Wolf",train_and_test,False,6985.jpg
+1042,Ferdinand Hodler,c.1912,sketch and study,2064.0,4476.0,4399543.0,wikiart,Art Nouveau (Modern),Swearing from behind,train_and_test,False,17689.jpg
+1065,Ferdinand Hodler,c.1912,sketch and study,2040.0,4476.0,4293983.0,wikiart,Art Nouveau (Modern),Swearing to the left,train_and_test,False,70630.jpg
+1070,Ivan Bilibin,,illustration,2598.0,3509.0,1883264.0,wikiart,Art Nouveau (Modern),"Illustration for the Russian Fairy Story ""White duck""",train_and_test,False,80298.jpg
+1072,Ivan Bilibin,,illustration,2598.0,3509.0,2078044.0,wikiart,Art Nouveau (Modern),"Illustration for the Russian Fairy Story ""The Frog Princess""",train_and_test,False,30689.jpg
+1106,Theophile Steinlen,1890.0,poster,2691.0,3346.0,6893966.0,wikiart,Art Nouveau (Modern),Le Reve  ,train_and_test,False,43440.jpg
+1131,Ivan Bilibin,1900.0,illustration,2550.0,3509.0,1915678.0,wikiart,Art Nouveau (Modern),"Illustration for the Russian Fairy Story ""Maria Morevna""",train_and_test,False,54739.jpg
+1137,Ivan Bilibin,1901.0,illustration,2550.0,3509.0,646688.0,wikiart,Art Nouveau (Modern),"Illustration for the Russian Fairy Story ""Sister Alyonushka and brother Ivanushka""",train_and_test,False,58613.jpg
+1140,Ivan Bilibin,1899.0,illustration,2550.0,3509.0,879528.0,wikiart,Art Nouveau (Modern),"Illustration for the Russian Fairy Story ""The Frog Princess""",train_and_test,False,58201.jpg
+1152,Koloman Moser,,design,4116.0,2166.0,5118184.0,wikiart,Art Nouveau (Modern),"Am Steinhof Church, colored sketch of south window",train_and_test,False,34599.jpg
+1159,Gustav Klimt,1918,allegorical painting,3176.0,2795.0,2235375.0,wikiart,Art Nouveau (Modern),The Bride (unfinished),train_and_test,False,22368.jpg
+1207,Koloman Moser,1896,design,2370.0,3678.0,6059341.0,wikiart,Art Nouveau (Modern),Head of the girl,train_and_test,False,17833.jpg
+1226,Filipp Malyavin,1906,genre painting,4000.0,2164.0,7607771.0,wikiart,Art Nouveau (Modern),Whirlwind ,test_only,False,22129.jpg
+1228,Serge Sudeikin,1922,design,3718.0,2326.0,3030298.0,wikiart,Art Nouveau (Modern),Design for Katinka,train_and_test,False,85347.jpg
+1265,Koloman Moser,1900,design,2172.0,3948.0,5435287.0,wikiart,Art Nouveau (Modern),Fabric design with floral awakening for Backhausen,train_and_test,False,8193.jpg
+1333,Henri de Toulouse-Lautrec,1893,poster,2536.0,3301.0,1061300.0,wikiart,Art Nouveau (Modern),Divan Japonais,train_and_test,False,92035.jpg
+1379,Theophile Steinlen,,sketch and study,3160.0,2619.0,1162780.0,wikiart,Art Nouveau (Modern),La Sortie Des Ouvrieres ,train_and_test,False,101399.jpg
+1439,Ivan Bilibin,,illustration,4703.0,1740.0,16972561.0,wikiart,Art Nouveau (Modern),"Illustration for the fairytale ""Sinbad the Sailor""",train_and_test,False,39731.jpg
