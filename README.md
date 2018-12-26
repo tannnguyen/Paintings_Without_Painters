@@ -6,7 +6,7 @@ Paintings Without Painters uses Kaggle's competition [Painting by Numbers](https
 We have also shared [our reports]() for more detailed explanation.
 
 ## Dataset and Preprocessing
-Painter By Numbers dataset provides paintings with various size; therefore, we want to regularize the model input. First we want to scale the shorter side to 256 pixels and then crop the other side to make it 256x256 pixels. As we do comparisons for different models in Artist Fingerprinting and different methods in Style Transfer, we generated the same set of training, validation, and testing dataset. Example of these datasets are in [dataset_csv]() and the generating script is in [Util]() Jupyter Notebook. 
+Paintings By Numbers dataset provides paintings with various size; therefore, we want to regularize the model input. First we want to scale the shorter side to 256 pixels and then crop the other side to make it 256x256 pixels. As we do comparisons for different models in Artist Fingerprinting and different methods in Style Transfer, we generated the same set of training, validation, and testing dataset. Example of these datasets are in [dataset_csv]() and the generating script is in [Util]() Jupyter Notebook. 
 
 For Artist Fingerprinting, we trained on 120,000 pairs, validation on 3,000 pairs and test on 30,000 pairs. We also make sure that the code generates a somewhat balanced dataset. For CycleGAN in Style Transfer, we used 1,000 paintings for training and 50 for testing. 
 
@@ -17,11 +17,15 @@ Please refer to our [code]() for more details of the architecture and our report
 
 ## Style Transfer
 ### Neural Style Transfer with CNN
-
+Applying image-to-image style transfer using CNN with one image as content and the other image as style like described in the [paper](), we get the result:
 
 
 ### CycleGAN
+Another approach that we can use is [CycleGAN]() where we train on two collections instead of just two images. We get the result as follows:
 
+
+### Comparison between the two
+Running both methods, we have the comparison:
 
 ## Authors
 * Tan Nguyen
