@@ -20,13 +20,13 @@ Please refer to our [code](https://github.com/tannnguyen/Paintings_Without_Paint
 
 ## Style Transfer
 ### Neural Style Transfer with CNN
-Applying image-to-image style transfer using CNN with one image as content and the other image as style like described in the [paper](), we get the result:
+Applying image-to-image style transfer using CNN with one image as content and the other image as style like described in the [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), we get the result:
 <p>
 <img src="https://github.com/tannnguyen/Paintings_Without_Painters/blob/master/result/img2img.jpg">
 </p>
 
 ### CycleGAN
-Another approach that we can use is [CycleGAN]() where we train on two collections instead of just two images. We get the result as follows:
+Another approach that we can use is [CycleGAN](https://arxiv.org/pdf/1703.10593.pdf) where we train on two collections instead of just two images. We get the result as follows:
 
 For transferring from style Art Nouveau to Romanticism:
 <p>
@@ -35,7 +35,7 @@ For transferring from style Art Nouveau to Romanticism:
 
 For transferring from style Romanticism to Art Nouveau:
 <p>
-<img src="https://github.com/tannnguyen/Paintings_Without_Painters/blob/master/result/romanticism.png">
+<img src="https://github.com/tannnguyen/Paintings_Without_Painters/blob/master/result/nouveau.png">
 </p>
 
 ### Comparison between the two
@@ -50,3 +50,6 @@ Running both methods, we have the comparison:
 * Morgan Hobson
 
 ## Resources
+* [PyTorch Neural Style Transfer](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html)
+* [CycleGAN Github](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+* [CycleGAN Help](https://github.com/aitorzip/PyTorch-CycleGAN)
